@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 05d1f801-cf8d-4e41-b501-4418fad4fef4)
+
+  (paper "A4")
+
+  (title_block
+    (title "HEALTH-EIR V2")
+    (date "01/05/2023")
+    (company "TAKE-EIR ")
+    (comment 1 "Made by Theophile Wemaere")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
