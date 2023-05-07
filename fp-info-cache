@@ -1,4 +1,4 @@
-21606457380748037
+21606779522330446
 Arduino
 Arduino_Micro
 Arduino Micro
@@ -2058,12 +2058,12 @@ tact sw push 6mm
 4
 2
 Button_Switch_THT
-SW_PUSH_6mm_H5mm_PATCHED
+SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
 tact sw push 6mm
 0
 4
-4
+2
 Button_Switch_THT
 SW_PUSH_6mm_H7.3mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm
